@@ -92,7 +92,7 @@ oppose
 immigration
 burglar
 deal
-palace
+palace & place
 aluminium
 determine
 confuse
@@ -108,3 +108,17 @@ liberty & liberate & library
 association
 vacation & vocational
 squeeze
+congratulate
+courtyard
+equipment
+patient
+aware
+jewelry
+academy
+
+purple & pupil
+expect & expert & except
+comrade
+communist & communism
+emergency & merge
+

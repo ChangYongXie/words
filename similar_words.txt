@@ -4,6 +4,7 @@ disturbing & disgusting
 benefit & beneficial
 consider & considerate
 embassy & ambassador
+palace & place
 capital & captain
 immigrate & immigration & immediate & immediately
 sacred & scare
@@ -11,3 +12,7 @@ disaster & catastrophe
 circulate & calculate
 liberty & liberate & library
 vacation & vocational
+purple & pupil
+expect & expert & except
+communist & communism
+emergency & merge
