@@ -65,7 +65,6 @@ amusement
 rough
 catastrophe
 
-
 slide
 deserve
 referee
@@ -121,4 +120,23 @@ expect & expert & except
 comrade
 communist & communism
 emergency & merge
+
+lorry
+tough & rough & cough
+digest
+chick & cheat
+pole & hole & rail
+growth
+cast & cost
+flow & blow
+authentic
+decorate
+ripen
+separately
+chimney
+moral
+authentic
+
+
+
 
