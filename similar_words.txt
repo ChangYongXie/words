@@ -3,6 +3,7 @@ lamp & lame
 disturbing & disgusting
 benefit & beneficial
 consider & considerate
+catastrophe & disaster
 embassy & ambassador
 palace & place
 capital & captain
@@ -21,3 +22,4 @@ chick & cheat
 pole & hole & rail
 cast & cost
 flow & blow
+alike & similar

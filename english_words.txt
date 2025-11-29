@@ -63,7 +63,7 @@ tobacco
 sausage
 amusement
 rough
-catastrophe
+catastrophe & disaster
 
 slide
 deserve
@@ -145,6 +145,23 @@ representative
 recognise
 arbitrary
 buddhist
+
+injure
+comdemn
+summary
+appearance
+acknowledge
+symphony
+subscribe
+
+parcel
+cattle
+sink
+beneath
+alike & similar
+ladder
+appreciate
+tense
 
 
 
