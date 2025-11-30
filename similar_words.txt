@@ -23,3 +23,7 @@ pole & hole & rail
 cast & cost
 flow & blow
 alike & similar
+fear & fare
+motto & motor
+bake & roast
+glare & glance
