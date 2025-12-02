@@ -5,6 +5,13 @@ sider, sir, sire->star 星星
 se-, 分开
 -y, 名词后缀
 sym->same, 表相同，共同
+sens-，表感觉
+-ive，表示具有...特性的
+-ize，表使...化
+st，stand
+en-，使处于...境地
+a-，处于...状态或过程中
+
 
 
 
