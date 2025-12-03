@@ -32,3 +32,9 @@ sing & scene & scenery
 initialize & initial
 heel & hill
 memorize & remember
+whistle & wrestle
+labourer & labor
+spacecraft & aircraft carrier
+navy & envy
+bid & lid
+form & from
