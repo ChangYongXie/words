@@ -31,7 +31,7 @@ ample
 interview
 appear
 socket
-commitment
+commitment & undertake
 announcement
 worthless & worth & value
 receptionist
@@ -198,4 +198,20 @@ blank
 
 punctuate & punctual & punctuation
 almost & nearly
+
+desperate
+vain
+alocholic
+equality & quality
+quarrel
+shuttle & shuffle
+reject & refuse
+decision & determine
+private
+gradually
+seldom
+frequent
+decision
+
+
 
