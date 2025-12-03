@@ -1,15 +1,22 @@
 correction & collection
 lamp & lame
 disturbing & disgusting
+worthless & worth & value
 benefit & beneficial
+precise & exactly & exact
+enquiry & query & inquire
 consider & considerate
+tale & tell
+acknowledge & recognize
+amusement & entertainment
 catastrophe & disaster
 embassy & ambassador
+explicit & precise
+deal & dial
 palace & place
 capital & captain
 immigrate & immigration & immediate & immediately
-sacred & scare
-disaster & catastrophe
+sacred & scare & scary
 circulate & calculate
 liberty & liberate & library
 vacation & vocational
@@ -22,6 +29,7 @@ chick & cheat
 pole & hole & rail
 cast & cost
 flow & blow
+serious & terrible
 alike & similar
 fear & fare
 motto & motor
@@ -38,3 +46,5 @@ spacecraft & aircraft carrier
 navy & envy
 bid & lid
 form & from
+punctuate & punctual & punctuation
+almost & nearly

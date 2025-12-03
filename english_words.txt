@@ -33,11 +33,10 @@ appear
 socket
 commitment
 announcement
-worthless
+worthless & worth & value
 receptionist
 tax
 vehicle
-tough
 meanwhile
 consensus
 grain
@@ -46,23 +45,22 @@ swell
 occupation
 benefit & beneficial
 theme
-precise
+precise & exactly & exact
 consume
 bent
-enquiry
+enquiry & query & inquire
 reliable
 consider & considerate
 receive
-tale
+tale & tell
 existence
 immediate
-acknowledge
+acknowledge & recognize
 advertisement
 trunk
 tobacco
 sausage
-amusement
-rough
+amusement & entertainment
 catastrophe & disaster
 
 slide
@@ -73,10 +71,8 @@ clumsy
 erupt
 embassy & ambassador
 century
-clumsy
-erupt
 
-explicit
+explicit & precise
 biography
 extra
 debt
@@ -88,9 +84,8 @@ reform
 perference
 unconscious
 oppose
-immigration
 burglar
-deal
+deal & dial
 palace & place
 aluminium
 determine
@@ -99,9 +94,8 @@ capital & captain
 immigrate & immigration & immediate & immediately
 booth
 comprehension
-sacred & scare
+sacred & scare & scary
 constitution
-disaster & catastrophe
 circulate & calculate
 liberty & liberate & library
 association
@@ -135,11 +129,9 @@ ripen
 separately
 chimney
 moral
-authentic
 
 adequate
-serious
-exact
+serious & terrible
 
 representative
 recognise
@@ -150,7 +142,7 @@ injure
 comdemn
 summary
 appearance
-acknowledge
+
 symphony
 subscribe
 
@@ -203,3 +195,7 @@ sensitive
 statistics
 application
 blank
+
+punctuate & punctual & punctuation
+almost & nearly
+
