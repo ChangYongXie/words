@@ -44,7 +44,7 @@ discussion
 swell
 occupation
 benefit & beneficial
-theme
+theme & topic
 precise & exactly & exact
 consume
 bent
@@ -230,6 +230,25 @@ autonomous
 supply
 ancestor
 react & reactor
+
+apron
+hardship
+grasp
+brunch & branch
+characteristic
+avenue & street
+seize
+cab & taxi
+predict
+remove & move
+twist
+tie
+conscience
+routine
+skyscraper
+receipt & recipe
+voluntary
+
 
 
 

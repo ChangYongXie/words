@@ -4,6 +4,7 @@ disturbing & disgusting
 commitment & undertake
 worthless & worth & value
 benefit & beneficial
+theme & topic
 precise & exactly & exact
 enquiry & query & inquire
 consider & considerate
@@ -59,3 +60,8 @@ puddle & paddle
 salt & salty
 abondon & abundant
 react & reactor
+brunch & branch
+avenue & street
+cab & taxi
+remove & move
+receipt & recipe
