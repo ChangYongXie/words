@@ -65,3 +65,5 @@ avenue & street
 cab & taxi
 remove & move
 receipt & recipe
+messy & dirty
+temple & murch
