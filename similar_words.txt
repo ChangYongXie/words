@@ -66,5 +66,5 @@ cab & taxi
 remove & move
 receipt & recipe
 messy & dirty
-temple & murch
+temple & church
 advice & advise

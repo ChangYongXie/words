@@ -265,6 +265,13 @@ atom
 choir
 league
 
+assume
+awkward
+volcano
+accuracy
+position
+acre
+
 
 
 
