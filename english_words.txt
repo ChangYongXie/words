@@ -62,7 +62,6 @@ tobacco
 sausage
 amusement & entertainment
 catastrophe & disaster
-
 slide
 deserve
 referee
@@ -71,7 +70,6 @@ clumsy
 erupt
 embassy & ambassador
 century
-
 explicit & precise
 biography
 extra
@@ -80,7 +78,6 @@ accustomed
 politician
 stone
 reform
-
 perference
 unconscious
 oppose
@@ -108,13 +105,11 @@ patient
 aware
 jewelry
 academy
-
 purple & pupil
 expect & expert & except
 comrade
 communist & communism
 emergency & merge
-
 lorry
 tough & rough & cough
 digest
@@ -129,23 +124,18 @@ ripen
 separately
 chimney
 moral
-
 adequate
 serious & terrible
-
 representative
 recognise
 arbitrary
 buddhist
-
 injure
 comdemn
 summary
 appearance
-
 symphony
 subscribe
-
 parcel
 cattle
 sink
@@ -154,7 +144,6 @@ alike & similar
 ladder
 appreciate
 tense
-
 affair
 pedestrian
 fear & fare
@@ -165,7 +154,6 @@ bake & roast
 glare & glance
 singe
 absorb
-
 technical
 scream & stream
 sing & scene & scenery
@@ -174,7 +162,6 @@ heel & hill
 real estate
 memorize & remember
 resign
-
 whistle & wrestle
 immense
 labourer & labor
@@ -195,10 +182,8 @@ sensitive
 statistics
 application
 blank
-
 punctuate & punctual & punctuation
 almost & nearly
-
 desperate
 vain
 alocholic
@@ -212,7 +197,6 @@ gradually
 seldom
 frequent
 decision
-
 scientific
 actual
 upset
@@ -230,7 +214,6 @@ autonomous
 supply
 ancestor
 react & reactor
-
 apron
 hardship
 grasp
@@ -248,7 +231,6 @@ routine
 skyscraper
 receipt & recipe
 voluntary
-
 scold
 messy & dirty
 temple & church
@@ -256,7 +238,6 @@ affection
 minority
 allowance
 valley
-
 advice & advise
 bright
 access
@@ -264,17 +245,11 @@ welfare
 atom
 choir
 league
-
 assume
 awkward
 volcano
 accuracy
 position
 acre
-
-
-
-
-
 
 
