@@ -12,7 +12,7 @@ task
 wage
 schedule
 lamp & lame
-criterion
+criterion & standard
 pregnant
 security
 aggression
@@ -94,7 +94,7 @@ comprehension
 sacred & scare & scary
 constitution
 circulate & calculate
-liberty & liberate & library
+liberty & liberate & liberation & library
 association
 vacation & vocational
 squeeze
@@ -249,7 +249,31 @@ assume
 awkward
 volcano
 accuracy
-position
+position & composition
 acre
+ecology
+anxiety
+scratch
+lounge
+awkward
+compulsory
+rid
+suggest
+moustache
+rather & quite
+skateboard
+grand
+until/till & still & steal & burglar
+gallery
+noble
+civil
+maple
+among
+vertical & article
+
+
+
+
+
 
 

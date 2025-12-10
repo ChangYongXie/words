@@ -1,5 +1,6 @@
 correction & collection
 lamp & lame
+criterion & standard
 disturbing & disgusting
 commitment & undertake
 worthless & worth & value
@@ -20,7 +21,7 @@ capital & captain
 immigrate & immigration & immediate & immediately
 sacred & scare & scary
 circulate & calculate
-liberty & liberate & library
+liberty & liberate & liberation & library
 vacation & vocational
 purple & pupil
 expect & expert & except
@@ -68,3 +69,7 @@ receipt & recipe
 messy & dirty
 temple & church
 advice & advise
+position & composition
+rather & quite
+until/till & still & steal & burglar
+vertical & article
