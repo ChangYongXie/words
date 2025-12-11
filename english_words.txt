@@ -225,7 +225,7 @@ cab & taxi
 predict
 remove & move
 twist
-tie
+tie & bunch & fasten
 conscience
 routine
 skyscraper
@@ -263,13 +263,24 @@ moustache
 rather & quite
 skateboard
 grand
-until/till & still & steal & burglar
+until/till & still & steel & steal & burglar
 gallery
 noble
 civil
 maple
 among
 vertical & article
+swing
+instead & repleace
+wedding & marriage & marry
+pour
+camel
+variety
+gymnastics
+tolerate
+pure
+balloon
+
 
 
 
