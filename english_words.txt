@@ -41,7 +41,7 @@ meanwhile
 consensus
 grain
 discussion
-swell
+swell & sweep & sweat
 occupation
 benefit & beneficial
 theme & topic
@@ -151,7 +151,7 @@ tease
 motto & motor
 razor
 bake & roast
-glare & glance
+glare & glance & stare
 singe
 absorb
 technical
@@ -234,7 +234,7 @@ voluntary
 scold
 messy & dirty
 temple & church
-affection
+affection & affect
 minority
 allowance
 valley
@@ -280,11 +280,13 @@ gymnastics
 tolerate
 pure
 balloon
-
-
-
-
-
-
-
-
+single & signal
+poor & pour
+deadline
+straightforward & straight
+civil & civilian
+settle & settlement & solve
+extraordinary
+barbershop
+accuse
+salve

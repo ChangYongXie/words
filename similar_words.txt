@@ -4,6 +4,7 @@ criterion & standard
 disturbing & disgusting
 commitment & undertake
 worthless & worth & value
+swell & sweep & sweat
 benefit & beneficial
 theme & topic
 precise & exactly & exact
@@ -37,7 +38,7 @@ alike & similar
 fear & fare
 motto & motor
 bake & roast
-glare & glance
+glare & glance & stare
 scream & stream
 sing & scene & scenery
 initialize & initial
@@ -69,6 +70,7 @@ tie & bunch & fasten
 receipt & recipe
 messy & dirty
 temple & church
+affection & affect
 advice & advise
 position & composition
 rather & quite
@@ -76,3 +78,8 @@ until/till & still & steel & steal & burglar
 vertical & article
 instead & repleace
 wedding & marriage & marry
+single & signal
+poor & pour
+straightforward & straight
+civil & civilian
+settle & settlement & solve
