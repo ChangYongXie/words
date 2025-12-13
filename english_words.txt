@@ -52,7 +52,7 @@ enquiry & query & inquire
 reliable
 consider & considerate
 receive
-tale & tell
+tale & tell & tail
 existence
 immediate
 acknowledge & recognize
@@ -234,7 +234,7 @@ voluntary
 scold
 messy & dirty
 temple & church
-affection & affect
+affection & affect & attack & attract
 minority
 allowance
 valley
@@ -290,3 +290,9 @@ extraordinary
 barbershop
 accuse
 salve
+wallet & purse
+rise & raise
+interrupt
+debate
+select
+

@@ -10,7 +10,7 @@ theme & topic
 precise & exactly & exact
 enquiry & query & inquire
 consider & considerate
-tale & tell
+tale & tell & tail
 acknowledge & recognize
 amusement & entertainment
 catastrophe & disaster
@@ -70,7 +70,7 @@ tie & bunch & fasten
 receipt & recipe
 messy & dirty
 temple & church
-affection & affect
+affection & affect & attack & attract
 advice & advise
 position & composition
 rather & quite
@@ -83,3 +83,5 @@ poor & pour
 straightforward & straight
 civil & civilian
 settle & settlement & solve
+wallet & purse
+rise & raise
