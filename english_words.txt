@@ -283,16 +283,32 @@ balloon
 single & signal
 poor & pour
 deadline
-straightforward & straight
+straightforward & straight & strait
 civil & civilian
 settle & settlement & solve
 extraordinary
 barbershop
-accuse
+accuse & blame
 salve
 wallet & purse
-rise & raise
+rise & arise & raise
 interrupt
 debate
 select
+avoid
+pace
+conduct
+several
+prohibit
+assessment
+urge
+numb
+particular
+native
+fiction & friction
+chew
+telescope
+
+
+
 
