@@ -290,7 +290,7 @@ extraordinary
 barbershop
 accuse & blame
 salve
-wallet & purse
+wallet & purse & pause & pulse
 rise & arise & raise
 interrupt
 debate
@@ -322,6 +322,13 @@ attain
 partner
 privilege
 reputation
+respond
+empire & emperor
+allergic & react
+cosy
+sympathy
+analyze
+desire
 
 
 

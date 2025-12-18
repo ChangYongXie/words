@@ -85,8 +85,10 @@ straightforward & straight & strait
 civil & civilian
 settle & settlement & solve
 accuse & blame
-wallet & purse
+wallet & purse & pause & pulse
 rise & arise & raise
 fiction & friction
 plot & spot
 frost & frozen
+empire & emperor
+allergic & react
