@@ -70,7 +70,7 @@ tie & bunch & fasten
 receipt & recipe
 messy & dirty
 temple & church
-affection & affect & attack & attract
+affection & affect &effect & attack & attract
 advice & advise
 position & composition
 rather & quite
@@ -78,6 +78,7 @@ until/till & still & steel & steal & burglar
 vertical & article
 instead & repleace
 wedding & marriage & marry
+variety & diverse
 single & signal
 poor & pour
 straightforward & straight & strait
@@ -87,3 +88,5 @@ accuse & blame
 wallet & purse
 rise & arise & raise
 fiction & friction
+plot & spot
+frost & frozen

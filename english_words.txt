@@ -234,7 +234,7 @@ voluntary
 scold
 messy & dirty
 temple & church
-affection & affect & attack & attract
+affection & affect &effect & attack & attract
 minority
 allowance
 valley
@@ -275,7 +275,7 @@ instead & repleace
 wedding & marriage & marry
 pour
 camel
-variety
+variety & diverse
 gymnastics
 tolerate
 pure
@@ -309,6 +309,20 @@ fiction & friction
 chew
 telescope
 tape
+plot & spot
+postpone
+major
+frost & frozen
+alternative
+attain
+ashamed
+essay
+foggy
+attain
+partner
+privilege
+reputation
+
 
 
 
