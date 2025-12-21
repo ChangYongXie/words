@@ -88,7 +88,7 @@ aluminium
 determine
 confuse
 capital & captain
-immigrate & immigration & immediate & immediately
+immigrate & immigration & immediate & immediately & apparent
 booth
 comprehension
 sacred & scare & scary
@@ -327,8 +327,27 @@ empire & emperor
 allergic & react
 cosy
 sympathy
-analyze
+analyze & analysis
 desire
+award
+wonder & wander
+practice & practical
+steward
+collar
+punishment
+permanent
+wounded
+algebra
+athletic & athlete
+suspension
+introduction & introduce
+account & accent
+penny
+ankle
+purchase
+warmth
+
+
 
 
 

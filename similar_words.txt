@@ -19,7 +19,7 @@ explicit & precise
 deal & dial
 palace & place
 capital & captain
-immigrate & immigration & immediate & immediately
+immigrate & immigration & immediate & immediately & apparent
 sacred & scare & scary
 circulate & calculate
 liberty & liberate & liberation & library
@@ -92,3 +92,9 @@ plot & spot
 frost & frozen
 empire & emperor
 allergic & react
+analyze & analysis
+wonder & wander
+practice & practical
+athletic & athlete
+introduction & introduce
+account & accent
