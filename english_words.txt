@@ -88,7 +88,7 @@ aluminium
 determine
 confuse
 capital & captain
-immigrate & immigration & immediate & immediately & apparent
+immigrate & immigration & immediate & immediately
 booth
 comprehension
 sacred & scare & scary
@@ -346,6 +346,19 @@ penny
 ankle
 purchase
 warmth
+apparent & evident & evidently
+forever & permanent
+plate
+anyway
+though & although & even though
+literate & scholar
+etc(et cetera) & and so on
+bride & bridegroom
+recommend
+absence
+battery
+
+
 
 
 

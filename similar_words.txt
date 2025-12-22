@@ -19,7 +19,7 @@ explicit & precise
 deal & dial
 palace & place
 capital & captain
-immigrate & immigration & immediate & immediately & apparent
+immigrate & immigration & immediate & immediately
 sacred & scare & scary
 circulate & calculate
 liberty & liberate & liberation & library
@@ -98,3 +98,9 @@ practice & practical
 athletic & athlete
 introduction & introduce
 account & accent
+apparent & evident & evidently
+forever & permanent
+though & although & even though
+literate & scholar
+etc(et cetera) & and so on
+bride & bridegroom
