@@ -2,6 +2,7 @@ correction & collection
 lamp & lame
 criterion & standard
 disturbing & disgusting
+appear & appearance
 commitment & undertake
 worthless & worth & value
 swell & sweep & sweat
@@ -87,6 +88,7 @@ settle & settlement & solve
 accuse & blame
 wallet & purse & pause & pulse
 rise & arise & raise
+conduct & contact & content & constant
 fiction & friction
 plot & spot
 frost & frozen
@@ -101,6 +103,12 @@ account & accent
 apparent & evident & evidently
 forever & permanent
 though & although & even though
-literate & scholar
+literature & literate & scholar
 etc(et cetera) & and so on
 bride & bridegroom
+absence & absent
+prime & crime
+draft & drift
+coral & oral
+rely & reliable
+litre & litter

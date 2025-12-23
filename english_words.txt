@@ -29,7 +29,7 @@ convenient
 allocate
 ample
 interview
-appear
+appear & appearance
 socket
 commitment & undertake
 announcement
@@ -133,7 +133,6 @@ buddhist
 injure
 comdemn
 summary
-appearance
 symphony
 subscribe
 parcel
@@ -297,7 +296,7 @@ debate
 select
 avoid
 pace
-conduct
+conduct & contact & content & constant
 several
 prohibit
 assessment
@@ -335,7 +334,6 @@ practice & practical
 steward
 collar
 punishment
-permanent
 wounded
 algebra
 athletic & athlete
@@ -351,12 +349,25 @@ forever & permanent
 plate
 anyway
 though & although & even though
-literate & scholar
+literature & literate & scholar
 etc(et cetera) & and so on
 bride & bridegroom
 recommend
-absence
+absence & absent
 battery
+rot
+nod
+merciful
+unusual
+prime & crime
+draft & drift
+coral & oral
+rely & reliable
+litre & litter
+tendency
+fierce
+deposit
+
 
 
 
