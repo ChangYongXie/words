@@ -112,3 +112,5 @@ draft & drift
 coral & oral
 rely & reliable
 litre & litter
+therefore & thus
+hot pot & teapot
