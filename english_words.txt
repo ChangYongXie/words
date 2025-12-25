@@ -375,6 +375,12 @@ puzzle
 vice
 hot pot & teapot
 dot
+choke
+behalf
+spy
+promote
+attempt
+bishop
 
 
 
