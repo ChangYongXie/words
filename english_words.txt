@@ -381,6 +381,10 @@ spy
 promote
 attempt
 bishop
+demand
+indicate
+sob
+violate
 
 
 
