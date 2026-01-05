@@ -385,6 +385,17 @@ demand
 indicate
 sob
 violate
+pile
+ballpoint
+leather
+plug
+violate
+warn & worn
+concept
+ambition
+splendid
+environment
+impression
 
 
 
