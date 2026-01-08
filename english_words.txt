@@ -382,7 +382,7 @@ promote
 attempt
 bishop
 demand
-indicate
+indicate & delicate
 sob
 violate
 pile
@@ -396,6 +396,18 @@ ambition
 splendid
 environment
 impression
+slight
+majority
+concept
+advance
+troop
+thread
+forbid
+toward
+unfortunate
+contribute
+questionnaire
+thirsty
 
 
 

@@ -114,4 +114,5 @@ rely & reliable
 litre & litter
 therefore & thus
 hot pot & teapot
+indicate & delicate
 warn & worn
