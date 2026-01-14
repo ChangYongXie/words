@@ -415,6 +415,13 @@ deliver
 distribute
 conclusion
 attitude
+flexible
+garage
+furnished
+qualification
+patience
+society
+fuel
 
 
 
