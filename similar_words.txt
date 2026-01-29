@@ -17,6 +17,7 @@ amusement & entertainment
 catastrophe & disaster
 embassy & ambassador
 explicit & precise
+politician & statesman
 deal & dial
 palace & place
 capital & captain

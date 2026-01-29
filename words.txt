@@ -75,7 +75,7 @@ biography
 extra
 debt
 accustomed
-politician
+politician & statesman
 stone
 reform
 perference
@@ -498,6 +498,15 @@ obvious
 appeal
 embarrass
 woollen
+directory
+lively
+compromise
+afraid
+record
+traditional
+lecture
+ambiguous
+
 
 
 
