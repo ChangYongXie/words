@@ -121,3 +121,4 @@ warn & worn
 furnished & furniture
 strike & strict
 break & brake
+crayon & chalk

@@ -535,6 +535,13 @@ architect
 frontier
 corrupt
 aircraft
+flat
+shade
+chaos
+interpreter
+bureaucratic
+crayon & chalk
+abrupt
 
 
 
