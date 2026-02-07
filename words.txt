@@ -542,6 +542,13 @@ interpreter
 bureaucratic
 crayon & chalk
 abrupt
+sincerely
+acquaintance
+agenda
+trial
+brochure
+plain
+thermos
 
 
 
