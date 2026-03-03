@@ -531,7 +531,7 @@ burst
 unless
 disturb
 departure
-architect
+architect & architecture
 frontier
 corrupt
 aircraft
@@ -554,11 +554,46 @@ concentrate
 altitude
 session
 outgoing
-
-
-
-
-
+blanket
+associate
+yell
+lap
+rat
+tractor
+seal
+belt
+bargain
+pattern
+junk
+whisper
+tentative
+dismiss
+conclusion
+conservative
+funeral
+precious
+survival
+conservative
+bachelor
+oval
+spread
+typhoon
+clerk
+walnut
+February
+assist
+nephew
+weep
+sour
+vacant
+fence
+fry & fried
+against
+novel
+refusal
+vacant
+zoom
+grow
 
 
 
