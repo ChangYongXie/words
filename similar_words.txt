@@ -1,124 +1,129 @@
-correction & collection
-lamp & lame
-criterion & standard
-disturbing & disgusting
-appear & appearance
-commitment & undertake
-worthless & worth & value
-swell & sweep & sweat
-benefit & beneficial
-theme & topic
-precise & exactly & exact
-enquiry & query & inquire
-consider & considerate
-tale & tell & tail
-acknowledge & recognize
-amusement & entertainment
-catastrophe & disaster
-embassy & ambassador
-explicit & precise
-politician & statesman
-deal & dial
-palace & place
-capital & captain
-immigrate & immigration & immediate & immediately
-sacred & scare & scary
-circulate & calculate
-liberty & liberate & liberation & library
-vacation & vocational
-purple & pupil
-expect & expert & except
-communist & communism
-emergency & merge
-tough & rough & cough
-chick & cheat
-pole & hole & rail
-cast & cost
-flow & blow
-serious & terrible
-alike & similar
-fear & fare
-motto & motor
-bake & roast
-glare & glance & stare
-scream & stream
-sing & scene & scenery
-initialize & initial
-heel & hill
-memorize & remember
-whistle & wrestle
-labourer & labor
-spacecraft & aircraft carrier
-navy & envy
-bid & lid
-form & from
-punctuate & punctual & punctuation
-almost & nearly
-equality & quality
-shuttle & shuffle
-reject & refuse
-decision & determine
-consultant & physician & surgeon
-hawk & eagle
-puddle & paddle
-salt & salty
-abondon & abundant
-react & reactor
-brunch & branch
-avenue & street
-cab & taxi
-remove & move
-tie & bunch & fasten
-receipt & recipe
-messy & dirty
-temple & church
-affection & affect &effect & attack & attract
-advice & advise
-position & composition
-rather & quite
-until/till & still & steel & steal & burglar
-vertical & article
-instead & repleace
-wedding & marriage & marry
-variety & diverse
-single & signal
-poor & pour
-straightforward & straight & strait
-civil & civilian
-settle & settlement & solve
-accuse & blame
-wallet & purse & pause & pulse
-rise & arise & raise
-conduct & contact & content & constant
-fiction & friction
-plot & spot
-frost & frozen
-empire & emperor
-allergic & react
-analyze & analysis
-wonder & wander
 practice & practical
-athletic & athlete
-introduction & introduce
-account & accent
-apparent & evident & evidently
-forever & permanent
-though & although & even though
-literature & literate & scholar
-etc(et cetera) & and so on
-bride & bridegroom
-absence & absent
-prime & crime
-draft & drift
-coral & oral
-rely & reliable
-litre & litter
-therefore & thus
+tough & rough & cough
+single & signal
+flow & blow
+tie & bunch & fasten
+straightforward & straight & strait
+allergic & react
+avenue & street
+conduct & contact & content & constant
 hot pot & teapot
-indicate & delicate
-violate & violence
-warn & worn
-furnished & furniture
-strike & strict
-break & brake
+absence & absent
+vacation & vocational
+salt & salty
+therefore & thus
+position & composition
+capital & captain
+frost & frozen
+fry & fried
+instead & repleace
+consider & considerate
 crayon & chalk
+fiction & friction
+variety & diverse
+draft & drift
+circulate & calculate
+punctuate & punctual & punctuation
+hawk & eagle
+advice & advise
+palace & place
+serious & terrible
+motto & motor
+memorize & remember
+accuse & blame
+purple & pupil
+deal & dial
+spacecraft & aircraft carrier
+reject & refuse
+break & brake
+forever & permanent
+react & reactor
+tale & tell & tail
+chick & cheat
+emergency & merge
+account & accent
+puddle & paddle
+temple & church
+sing & scene & scenery
+consultant & physician & surgeon
+initialize & initial
+indicate & delicate
+lamp & lame
+architect & architecture
+form & from
+bid & lid
+worthless & worth & value
+receipt & recipe
+coral & oral
+theme & topic
+immigrate & immigration & immediate & immediately
+brunch & branch
+correction & collection
+communist & communism
+remove & move
+bake & roast
+commitment & undertake
+enquiry & query & inquire
+benefit & beneficial
+expect & expert & except
+introduction & introduce
+rather & quite
+strike & strict
+violate & violence
+cab & taxi
+bride & bridegroom
+acknowledge & recognize
+explicit & precise
+literature & literate & scholar
+criterion & standard
+rely & reliable
+disturbing & disgusting
+politician & statesman
+analyze & analysis
+navy & envy
+glare & glance & stare
+poor & pour
+wonder & wander
+apparent & evident & evidently & evidence
+equality & quality
+litre & litter
+scream & stream
+swell & sweep & sweat
+fear & fare
+shuttle & shuffle
+furnished & furniture
+liberty & liberate & liberation & library
+athletic & athlete
+amusement & entertainment
+civil & civilian
+plot & spot
+wallet & purse & pause & pulse
+pole & hole & rail
+catastrophe & disaster
+prime & crime
+warn & worn
+labourer & labor
+vertical & article
+empire & emperor
+affection & affect &effect & attack & attract
+etc(et cetera) & and so on
+abondon & abundant
+sacred & scare & scary
+wedding & marriage & marry
+though & although & even though
+whistle & wrestle
+until/till & still & steel & steal & burglar
+embassy & ambassador
+almost & nearly
+settle & settlement & solve
+messy & dirty
+rise & arise & raise
+appear & appearance
+cast & cost
+decision & determine
+precise & exactly & exact
+alike & similar
+heel & hill
+dessert & desert
+package & packet
+along & belong
