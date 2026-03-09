@@ -620,6 +620,13 @@ package & packet
 origin
 along & belong
 college
+prevent
+buffet & cafeteria
+equal
+ministry
+challenging
+crazy
+vanilla
 
 
 

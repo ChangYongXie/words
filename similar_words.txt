@@ -127,3 +127,4 @@ heel & hill
 dessert & desert
 package & packet
 along & belong
+buffet & cafeteria
