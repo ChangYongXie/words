@@ -55,7 +55,7 @@ exploit
 hardship
 subscribe
 departure
-opposite
+opposite & contrary
 routine
 reliable
 sparrow
@@ -97,7 +97,7 @@ separately
 battery
 appreciate
 platform
-poison
+poison & poisonous
 identity
 adequate
 cattle
@@ -119,7 +119,7 @@ partner
 unusual
 application
 consider & considerate
-insure
+insure & insurance
 crayon & chalk
 precious
 weep
@@ -431,7 +431,7 @@ scream & stream
 desire
 institute
 abundant
-swell & sweep & sweat
+swell & sweep & sweat & suite
 fear & fare
 comma
 ambiguous
@@ -627,6 +627,13 @@ ministry
 challenging
 crazy
 vanilla
+lavatory
+inspire
+surrounding
+occur & happen
+cottage
+campaign
+
 
 
 

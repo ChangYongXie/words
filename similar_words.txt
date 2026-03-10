@@ -11,13 +11,16 @@ hot pot & teapot
 absence & absent
 vacation & vocational
 salt & salty
+opposite & contrary
 therefore & thus
 position & composition
 capital & captain
+poison & poisonous
 frost & frozen
 fry & fried
 instead & repleace
 consider & considerate
+insure & insurance
 crayon & chalk
 fiction & friction
 variety & diverse
@@ -88,7 +91,7 @@ apparent & evident & evidently & evidence
 equality & quality
 litre & litter
 scream & stream
-swell & sweep & sweat
+swell & sweep & sweat & suite
 fear & fare
 shuttle & shuffle
 furnished & furniture
@@ -128,3 +131,4 @@ dessert & desert
 package & packet
 along & belong
 buffet & cafeteria
+occur & happen
