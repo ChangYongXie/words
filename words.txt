@@ -637,6 +637,11 @@ eager
 vague
 antique
 rectangle
+fortune & fortunate & unfortunate
+stress
+curtain
+theoretical
+transparent
 
 
 

@@ -132,3 +132,4 @@ package & packet
 along & belong
 buffet & cafeteria
 occur & happen
+fortune & fortunate & unfortunate
