@@ -54,6 +54,7 @@ indicate & delicate
 lamp & lame
 architect & architecture
 form & from
+cube & cubic
 bid & lid
 worthless & worth & value
 receipt & recipe
@@ -98,6 +99,7 @@ furnished & furniture
 liberty & liberate & liberation & library
 athletic & athlete
 amusement & entertainment
+absurd & ridiculous
 civil & civilian
 plot & spot
 wallet & purse & pause & pulse
@@ -123,6 +125,7 @@ messy & dirty
 rise & arise & raise
 appear & appearance
 cast & cost
+bent & bend
 decision & determine
 precise & exactly & exact
 alike & similar

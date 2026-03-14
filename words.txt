@@ -274,7 +274,7 @@ recognise
 expression
 nod
 summary
-cube
+cube & cubic
 correspond
 collision
 sob
@@ -453,7 +453,7 @@ aluminium
 squeeze
 command
 conscience
-absurd
+absurd & ridiculous
 civil & civilian
 chew
 concept
@@ -576,7 +576,7 @@ arbitrary
 consistent
 cross
 resist
-bent
+bent & bend
 decision & determine
 precise & exactly & exact
 sink
@@ -660,6 +660,15 @@ gallon
 virus
 thorough
 presentation
+boundray
+companion
+hay
+tablet
+discrimination
+arrest
+delighted
+proper
+enthusiastic
 
 
 
