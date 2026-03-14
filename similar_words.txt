@@ -77,7 +77,7 @@ cab & taxi
 bride & bridegroom
 acknowledge & recognize
 explicit & precise
-literature & literate & scholar
+literature & literate  & literary & scholar
 criterion & standard
 rely & reliable
 disturbing & disgusting
@@ -127,9 +127,13 @@ decision & determine
 precise & exactly & exact
 alike & similar
 heel & hill
+possession & possess
 dessert & desert
 package & packet
 along & belong
 buffet & cafeteria
 occur & happen
 fortune & fortunate & unfortunate
+chorus & choirs
+religion & religious
+defend & defence & defense

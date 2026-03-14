@@ -398,7 +398,7 @@ lack
 debt
 deliberately
 academy
-literature & literate & scholar
+literature & literate  & literary & scholar
 criterion & standard
 gradually
 rely & reliable
@@ -594,7 +594,7 @@ squirrel
 moslem
 temporary
 destination
-possession
+possession & possess
 politics
 wrist
 aboard
@@ -653,6 +653,13 @@ cheque
 federal
 chorus & choirs
 snatch
+approcah
+religion & religious
+defend & defence & defense
+gallon
+virus
+thorough
+presentation
 
 
 
