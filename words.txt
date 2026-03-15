@@ -669,6 +669,11 @@ arrest
 delighted
 proper
 enthusiastic
+gravity
+diameter
+atmosphere
+sphere
+magnetic
 
 
 
