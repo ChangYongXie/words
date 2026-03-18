@@ -477,7 +477,7 @@ spaghetti
 pole & hole & rail
 praise
 lap
-conservative
+conservative & conservation & conversation
 catastrophe & disaster
 associate
 reputation
@@ -643,7 +643,7 @@ curtain
 theoretical
 transparent
 hire
-comb
+comb & tomb
 greengrocer
 crowd
 various
@@ -686,6 +686,21 @@ imagine
 commercial
 christian
 senior
+either
+careless
+dilemma
+delay
+stove
+rude
+consideration
+dawn
+pacific
+mosquito
+cupboard
+concert
+cautious
+relevant
+grill
 
 
 

@@ -104,6 +104,7 @@ civil & civilian
 plot & spot
 wallet & purse & pause & pulse
 pole & hole & rail
+conservative & conservation & conversation
 catastrophe & disaster
 prime & crime
 warn & worn
@@ -137,6 +138,7 @@ along & belong
 buffet & cafeteria
 occur & happen
 fortune & fortunate & unfortunate
+comb & tomb
 chorus & choirs
 religion & religious
 defend & defence & defense
