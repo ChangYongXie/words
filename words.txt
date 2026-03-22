@@ -469,7 +469,7 @@ pace
 profession
 statistics
 silent
-autonomous
+autonomous & automatic
 wallet & purse & pause & pulse
 jewelry
 alternative
@@ -729,6 +729,14 @@ album
 attend
 accommodation
 adaptaion
+worthy
+instrument
+theaf & thief
+solid & firm
+emperor
+contradictory
+offence
+
 
 
 
