@@ -102,6 +102,7 @@ amusement & entertainment
 absurd & ridiculous
 civil & civilian
 plot & spot
+autonomous & automatic
 wallet & purse & pause & pulse
 pole & hole & rail
 conservative & conservation & conversation
@@ -144,3 +145,5 @@ religion & religious
 defend & defence & defense
 besides & beside
 representation & represent
+theaf & thief
+solid & firm
