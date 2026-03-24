@@ -137,6 +137,7 @@ dessert & desert
 package & packet
 along & belong
 buffet & cafeteria
+surrounding & surround
 occur & happen
 fortune & fortunate & unfortunate
 comb & tomb
@@ -147,3 +148,5 @@ besides & beside
 representation & represent
 theaf & thief
 solid & firm
+chart & form
+rope & tie
