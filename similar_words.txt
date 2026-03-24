@@ -146,7 +146,7 @@ religion & religious
 defend & defence & defense
 besides & beside
 representation & represent
-theaf & thief
+theft & thief
 solid & firm
 chart & form
 rope & tie

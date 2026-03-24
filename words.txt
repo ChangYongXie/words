@@ -527,7 +527,7 @@ sacred & scare & scary
 swap
 sour
 inspect
-comdemn
+condemn
 bargain
 ambition
 theory
@@ -731,7 +731,7 @@ accommodation
 adaptaion
 worthy
 instrument
-theaf & thief
+theft & thief
 solid & firm
 emperor
 contradictory
