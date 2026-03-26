@@ -19,6 +19,7 @@ poison & poisonous
 frost & frozen
 fry & fried
 instead & repleace
+application & applicant
 consider & considerate
 insure & insurance
 crayon & chalk
@@ -38,6 +39,7 @@ purple & pupil
 deal & dial
 spacecraft & aircraft carrier
 reject & refuse
+tendency & trend
 break & brake
 forever & permanent
 react & reactor
@@ -151,3 +153,7 @@ solid & firm
 chart & form
 rope & tie
 procedure & procedural
+global & globe
+reward & prize
+slave & slavery
+discourage & discourage

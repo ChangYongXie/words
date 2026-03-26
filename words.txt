@@ -117,7 +117,7 @@ instead & repleace
 chaos
 partner
 unusual
-application
+application & applicant
 consider & considerate
 insure & insurance
 crayon & chalk
@@ -191,7 +191,7 @@ applaud
 brochure
 noble
 guilty
-tendency
+tendency & trend
 break & brake
 merely
 forever & permanent
@@ -760,6 +760,27 @@ procedure & procedural
 vinegar
 tournament
 climate
+teenager
+fairly
+global & globe
+detail
+flavour
+reward & prize
+slave & slavery
+reflect
+rapid
+subtraction
+eventually
+discourage & discourage
+secretary
+medal
+participate
+district
+passive
+acid
+bathe
+personnel
+
 
 
 
