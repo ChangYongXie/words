@@ -114,7 +114,7 @@ warn & worn
 labourer & labor
 vertical & article
 empire & emperor
-affection & affect &effect & attack & attract
+affection & affect & effect & attack & attract
 etc(et cetera) & and so on
 abondon & abundant
 sacred & scare & scary
@@ -157,3 +157,5 @@ global & globe
 reward & prize
 slave & slavery
 discourage & discourage
+tibet & tibetan
+toothbrush & toothpaste
