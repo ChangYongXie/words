@@ -122,7 +122,7 @@ consider & considerate
 insure & insurance
 crayon & chalk
 precious
-weep
+weep & cry
 division
 twist
 fiction & friction
@@ -598,7 +598,7 @@ possession & possess
 politics
 wrist
 aboard
-luggage
+luggage & baggage
 terrify
 unemployment
 stocking
@@ -662,13 +662,13 @@ thorough
 presentation
 boundray
 companion
-hay
+hay & dry grass
 tablet
 discrimination
 arrest
 delighted
 proper
-enthusiastic
+enthusiastic & eager & excited
 gravity
 rare
 diameter
@@ -698,11 +698,11 @@ pacific
 mosquito
 cupboard
 concert
-cautious
+cautious & caution
 relevant
 grill
 tailor
-astronaut
+astronaut & astronomer
 mineral
 foreign
 superior
@@ -769,23 +769,55 @@ reward & prize
 slave & slavery
 reflect
 rapid
-subtraction
+subtraction & addition
 eventually
 discourage & discourage
 secretary
-medal
+medal & metal
 participate
 district
 passive
 acid
 bathe
-personnel
+personnel & human resource
 tibet & tibetan
-capsule
+capsule & pill
 respect
 underline
 toothbrush & toothpaste
 pyramid
+waiter
+perculiar
+crucial
+overcome
+perplex
+emerge
+sparse
+excuse
+exist
+promise
+centre
+govern
+slip
+adaptation
+neat
+metal
+worst
+passport
+sorrow
+appoint
+dash
+bitter
+overlook
+rediculous
+unpleasant
+stubborn & wooden
+curriculum
+amateur
+idiom
+operation
+abolish
+
 
 
 
