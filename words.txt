@@ -76,7 +76,7 @@ ballpoint
 therefore & thus
 blanket
 plain
-moustache
+moustache & beard
 tape
 bat
 patient
@@ -825,6 +825,31 @@ horrible
 stamp
 virtue
 omelette
+broad & abroad & aboard
+sew & tailor
+persuade
+certificate
+licence
+soldier
+natural & nature
+greedy
+extension
+astronomy
+pillow
+catalogue
+especially
+mutton & goat
+human & humour
+coach
+refer
+memorial
+appendix
+scottish & scoland
+elegant
+description
+
+
+
 
 
 
