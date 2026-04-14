@@ -429,7 +429,7 @@ litre & litter
 valid
 scream & stream
 desire
-institute
+institute & institution
 abundant
 swell & sweep & sweat & suite
 fear & fare
@@ -844,9 +844,19 @@ coach
 refer
 memorial
 appendix
-scottish & scoland
+scottish & scotland
 elegant
 description
+shout
+plenty
+spare & extra
+adore
+fond
+begin
+insist
+blind
+geometry
+fellow
 
 
 
